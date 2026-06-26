@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Les Étoiles Dans Tes Yeux
+
+This log tracks the cryptographic history and versioning for the song **Les Étoiles Dans Tes Yeux** (les-etoiles-dans-tes-yeux).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T19:22:01.542600 | `v1` | `29149cf24420508d4d8cdf0d9b664a745438ab5e3ee846a82bd70e55b52a63a6` | `3bbdf8bc89bfe9f65dc340fe8a8a9c6fa8fefd3226c31103b5fd9e02b664f240` | `2026-06-26_les-etoiles-dans-tes-yeux-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
