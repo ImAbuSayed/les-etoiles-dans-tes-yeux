@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-etoiles-dans-tes-yeux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Les Étoiles Dans Tes Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-etoiles-dans-tes-yeux/) |
+| **Get License** | [Secure Licensing Rights for Les Étoiles Dans Tes Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-etoiles-dans-tes-yeux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'vois les étoiles dans tes yeux, midnight fantasy
+> La nuit nous appartient, c'est notre galaxie
+> Ton parfum m'enivre sous le ciel de Paris
+> Viens, on s'échappe loin des regards, ma chérie
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
